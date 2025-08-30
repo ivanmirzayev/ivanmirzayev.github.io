@@ -1,5 +1,12 @@
+# Robots.txt file for allowing Google AdSense verification and search engine indexing
 User-agent: *
+Allow: /
 Disallow:
 
 # Allow all crawlers to access all parts of the site
-# This file is necessary for Google AdSense verification and search engine indexing
+# Specifically allow Google AdSense crawler
+User-agent: Mediapartners-Google
+Allow: /
+
+# Disable robots.txt parsing errors
+Sitemap: https://ivanmirzayev.github.io/sitemap.xml

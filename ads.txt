@@ -1,10 +1,17 @@
 # Google AdSense ads.txt file
-# This file helps verify your site's ad inventory and prevents ad fraud
+# This file is required for AdSense verification and helps prevent ad fraud
 
-# Google AdSense
+# Primary AdSense account - Replace with your actual publisher ID
+# Example: google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
 google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
 
-# Publisher ID: Replace 'pub-1234567890123456' with your actual Google AdSense publisher ID
-# You can find your publisher ID in your Google AdSense account settings
+# Backup Adsense account (optional)
+# google.com, pub-0987654321098765, DIRECT, f08c47fec0942fa0
 
-# This file should be placed at the root of your website (e.g., https://yoursite.com/ads.txt)
+# Important notes:
+# 1. Replace 'pub-1234567890123456' with your actual AdSense publisher ID
+# 2. This file must be accessible at https://ivanmirzayev.github.io/ads.txt
+# 3. Ensure there are no spaces in the lines and use correct formatting
+# 4. Update this file whenever you add/remove ad networks
+
+# Last updated: 2024-05-01
