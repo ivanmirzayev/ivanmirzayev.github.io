@@ -9,4 +9,4 @@ User-agent: Mediapartners-Google
 Allow: /
 
 # Disable robots.txt parsing errors
-Sitemap: https://ivanmirzayev.github.io/sitemap.xml
+Sitemap: https://technologia007.qzz.io/sitemap.xml
