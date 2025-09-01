@@ -1,0 +1,67 @@
+{
+  "common": {
+    "home": "Home",
+    "posts": "Posts",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search",
+    "subscribe": "Subscribe",
+    "readMore": "Read More",
+    "categories": "Categories",
+    "featuredPost": "Featured Post",
+    "latestPosts": "Latest Posts",
+    "author": "Author",
+    "readingTime": "Reading Time",
+    "allCategories": "All Categories",
+    "noPosts": "No posts yet, coming soon!",
+    "backToTop": "Back to Top"
+  },
+  "navbar": {
+    "logo": "TechBlog",
+    "toggleTheme": "Toggle Theme"
+  },
+  "footer": {
+    "description": "A modern tech blog sharing the latest technical insights, tutorials, and programming thoughts.",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "rightsReserved": "© 2023 My Blog. All rights reserved."
+  },
+  "home": {
+    "heroTitle": "Welcome to My Tech Blog",
+    "heroSubtitle": "Sharing insights, tutorials, and ideas about the latest technologies and programming."
+  },
+  "subscribeForm": {
+    "title": "Subscribe to My Blog Updates",
+    "subtitle": "Get the latest articles and technical insights directly to your inbox!",
+    "placeholder": "Your email address",
+    "submit": "Subscribe Now",
+    "privacyNote": "We respect your privacy and will not share your email address.",
+    "success": "Subscription successful! Thank you for your interest.",
+    "error": "Please enter a valid email address"
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "subtitle": "Have questions or want to say hello? Feel free to contact us!",
+    "formTitle": "Leave Me a Message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Thank you for your message! I'll reply as soon as possible.",
+    "error": "Please fill in all required fields",
+    "invalidEmail": "Please enter a valid email address"
+  },
+  "aboutPage": {
+    "title": "About Me",
+    "intro": "Hello, I'm a tech enthusiast developer and creator.",
+    "bio": "I focus on sharing the latest technical insights, programming tutorials, and development experiences. Through this blog, I hope to help more developers learn and grow.",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education"
+  },
+  "postPage": {
+    "by": "By",
+    "on": "Published on",
+    "relatedPosts": "Related Posts"
+  }
+}

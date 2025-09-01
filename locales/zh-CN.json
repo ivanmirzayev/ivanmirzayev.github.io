@@ -1,0 +1,67 @@
+{
+  "common": {
+    "home": "首页",
+    "posts": "文章",
+    "about": "关于",
+    "contact": "联系",
+    "search": "搜索",
+    "subscribe": "订阅",
+    "readMore": "阅读更多",
+    "categories": "分类",
+    "featuredPost": "特色文章",
+    "latestPosts": "最新文章",
+    "author": "作者",
+    "readingTime": "阅读时间",
+    "allCategories": "所有分类",
+    "noPosts": "暂无文章，敬请期待！",
+    "backToTop": "返回顶部"
+  },
+  "navbar": {
+    "logo": "TechBlog",
+    "toggleTheme": "切换主题"
+  },
+  "footer": {
+    "description": "一个现代科技博客，分享最新技术见解、教程和编程思考。",
+    "quickLinks": "快速链接",
+    "categories": "分类",
+    "rightsReserved": "© 2023 我的博客. 保留所有权利。"
+  },
+  "home": {
+    "heroTitle": "欢迎来到我的技术博客",
+    "heroSubtitle": "分享关于最新技术和编程的见解、教程和想法。"
+  },
+  "subscribeForm": {
+    "title": "订阅我的博客更新",
+    "subtitle": "获取最新的文章和技术见解，直接发送到您的邮箱！",
+    "placeholder": "您的邮箱地址",
+    "submit": "立即订阅",
+    "privacyNote": "我们尊重您的隐私，不会分享您的邮箱地址。",
+    "success": "订阅成功！感谢您的关注。",
+    "error": "请输入有效的邮箱地址"
+  },
+  "contactPage": {
+    "title": "联系我们",
+    "subtitle": "有问题或想打招呼？随时联系我们！",
+    "formTitle": "给我留言",
+    "name": "姓名",
+    "email": "邮箱",
+    "message": "留言内容",
+    "submit": "发送留言",
+    "success": "感谢您的留言！我会尽快回复您。",
+    "error": "请填写所有必填字段",
+    "invalidEmail": "请输入有效的邮箱地址"
+  },
+  "aboutPage": {
+    "title": "关于我",
+    "intro": "你好，我是一名热爱技术的开发者和创作者。",
+    "bio": "我专注于分享最新的技术见解、编程教程和开发经验。通过这个博客，我希望能够帮助更多的开发者学习和成长。",
+    "skills": "技能",
+    "experience": "经历",
+    "education": "教育"
+  },
+  "postPage": {
+    "by": "作者",
+    "on": "发布于",
+    "relatedPosts": "相关文章"
+  }
+}
