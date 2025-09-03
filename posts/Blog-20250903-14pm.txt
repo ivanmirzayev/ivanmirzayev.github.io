@@ -1,0 +1,85 @@
+3:I[5613,[],""]
+5:I[1778,[],""]
+6:I[2344,["792","static/chunks/792-023cd08bb7baed5c.js","185","static/chunks/app/layout-ccdf35fb8569faa9.js"],"ThemeProvider"]
+7:I[7177,["792","static/chunks/792-023cd08bb7baed5c.js","185","static/chunks/app/layout-ccdf35fb8569faa9.js"],""]
+8:I[6112,["792","static/chunks/792-023cd08bb7baed5c.js","185","static/chunks/app/layout-ccdf35fb8569faa9.js"],""]
+4:["id","Blog-20250903-14pm","d"]
+0:["_k2vICx3WC5MjoHF_waMD",[[["",{"children":["posts",{"children":[["id","Blog-20250903-14pm","d"],{"children":["__PAGE__?{\"id\":\"Blog-20250903-14pm\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["id","Blog-20250903-14pm","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"zh-CN","className":"scroll-smooth","children":[["$","head",null,{"children":[["$","meta",null,{"name":"robots","content":"index,follow"}],["$","meta",null,{"name":"googlebot","content":"index,follow"}],["$","script",null,{"src":"https://fpyf8.com/88/tag.min.js","data-zone":"167618","async":true,"data-cfasync":"false"}]]}],["$","body",null,{"className":"bg-light-background dark:bg-dark-background text-light-text dark:text-dark-text min-h-screen flex flex-col","children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","main",null,{"className":"flex-1 container mx-auto px-4 py-8 max-w-7xl","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","$L8",null,{}]]}]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b125aeca335c4621.css","precedence":"next","crossOrigin":""}]],"$L9"]]]]
+b:I[2502,["792","static/chunks/792-023cd08bb7baed5c.js","486","static/chunks/486-f7dc430f9526bca3.js","722","static/chunks/app/posts/%5Bid%5D/page-70d33960b2a8249d.js"],""]
+c:I[2689,["792","static/chunks/792-023cd08bb7baed5c.js","486","static/chunks/486-f7dc430f9526bca3.js","722","static/chunks/app/posts/%5Bid%5D/page-70d33960b2a8249d.js"],""]
+a:Teb5,<h1>🌐 朝鲜的网络生活：信息孤岛中的现实</h1>
+
+<p>金正恩坐着专列来北京参加93阅兵，但他知道朝鲜老百姓看不到任何关于这次出访的实时消息！为什么？因为朝鲜2500万老百姓的网络生活，和我们想象的完全不一样！</p>
+
+<h2>🚫 信息封锁：无法了解世界</h2>
+
+<p>想象一下，当全世界都在关注金正恩的北京之行时，朝鲜老百姓却无法通过互联网获得任何实时信息！他们只能等待官方媒体的统一报道。这就是朝鲜网络生活的真实写照。</p>
+
+<p>> 朝鲜老百姓确实能上网，但他们上的不是我们熟悉的互联网，而是一个完全封闭的 <strong>光明网</strong>！</p>
+
+<p>📎 [朝鲜网络现状图集 - 人民网](http://world.people.com.cn/n/2014/1230/c1002-26303079.html)</p>
+
+<h2>🔒 光明网：国家局域网</h2>
+
+<p>光明网是朝鲜2000年开通的国家局域网，整个网络只有 <strong>1000到5500个网站</strong>！</p>
+
+<li>内容包括：新闻宣传、教育资料、学术文献</li>
+<li>完全没有国际新闻</li>
+<li>所有内容都经过政府审查</li>
+
+<h2>💻 电脑使用门槛高</h2>
+
+<p>![朝鲜电脑使用图](https://www.sohu.com/a/656459_108293)</p>
+
+<p>朝鲜人想要购买电脑必须先获得政府许可，而且一台电脑要花费普通工人三个月的工资！</p>
+
+<li>只有约 <strong>10% 的人</strong> 能接触到电脑</li>
+<li>即使有电脑，也无法搜索国际新闻</li>
+
+<p>📎 [朝鲜电脑系统揭秘 - BBC](https://www.bbc.com/zhongwen/simp/world/2015/12/151228_world_north_korea_spy_files)</p>
+
+<h2>📱 智能手机：只能连本地网</h2>
+
+<p>![朝鲜智能手机图](https://cn.yna.co.kr/view/ACK20230713001300881)</p>
+
+<p>朝鲜现在每12个人中就有1人拥有智能手机，但这些手机：</p>
+
+<li>无法连接国际互联网</li>
+<li>无法访问 Twitter、YouTube 等国际平台</li>
+<li>只能使用本地开发的应用</li>
+
+<p>📎 [朝鲜手机现状分析 - Daily NK](https://www.dailynk.com/chinese/%E6%9C%9D%E9%B2%9C%E6%9C%80%E6%96%B0%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%94%A8%E7%9A%84%E5%8F%88%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%9B%B6/)</p>
+
+<h2>👥 谁能访问全球互联网？</h2>
+
+<p>整个朝鲜只有约 <strong>7200人</strong> 能访问全球互联网！</p>
+
+<li>包括政治领导人、精英大学学生、网络军团成员</li>
+<li>数量还不如一个中学的学生多！</li>
+
+<p>📎 [朝鲜网络军团揭秘 - 纽约时报](https://cn.nytimes.com/asia-pacific/20170728/north-korea-hacking-cybersecurity/)</p>
+
+<h2>🧠 技术先进却受限</h2>
+
+<p>朝鲜技术其实很先进：</p>
+
+<li>有自己的搜索引擎和邮箱系统</li>
+<li>开发了支持七种语言的在线翻译系统</li>
+<li>包含 <strong>200万个词汇</strong>，由 <strong>2000多名语言专家</strong> 参与</li>
+
+<p>![朝鲜翻译系统图](https://www.chinapress.com.my/20211003/%E6%9C%9D%E9%B2%9C%E5%BC%80%E5%8F%917%E8%AF%AD%E7%A7%8Dai%E7%BF%BB%E8%AF%91%E7%B3%BB%E7%BB%9F-%E5%AE%A3%E7%A7%B0%E5%87%86%E7%A1%AE%E5%BA%A6%E8%BE%BE%E4%B8%93%E5%AE%B6%E6%B0%B4%E5%87%86/)</p>
+
+<p>但讽刺的是，这么先进的系统却无法翻译任何关于金正恩国际活动的报道——因为根本搜索不到！</p>
+
+<p>---</p>
+
+<h2>🧩 结语：信息孤岛中的人民</h2>
+
+<p>当金正恩在国际舞台上活跃时，他的人民却生活在一个信息孤岛上。</p>
+
+<p>> 想象一下，如果你无法了解外面的世界正在发生什么……</p>
+
+<p>你觉得这样的网络生活是什么感受？如果是你，能适应这种信息环境吗？欢迎在评论区分享你的想法，让我们一起讨论！</p>
+2:["$","div",null,{"className":"space-y-10","children":[["$","header",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex flex-wrap gap-2","children":[]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold tracking-tight","children":"Untitled Post"}],["$","div",null,{"className":"flex items-center text-sm text-gray-500 dark:text-gray-400","children":[["$","time",null,{"dateTime":"2025-09-03","children":"2025年9月3日"}],["$","span",null,{"className":"mx-2","children":"•"}],["$","span",null,{"children":["1 min"," 分钟阅读"]}]]}]]}],["$","article",null,{"className":"prose prose-lg max-w-none dark:prose-invert","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]}],["$","$Lb",null,{"slot":"content"}],["$","section",null,{"className":"space-y-6","children":["$","$Lc",null,{}]}],false]}]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"我的个人博客"}],["$","meta","3",{"name":"description","content":"一个专注于分享最新技术见解、编程教程和开发者经验的现代科技博客"}],["$","meta","4",{"name":"author","content":"博客作者"}],["$","meta","5",{"name":"keywords","content":"博客,技术,编程,个人,教程,开发,前端,后端"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://ivanmirzayev.github.io/"}],["$","meta","8",{"property":"og:title","content":"我的个人博客"}],["$","meta","9",{"property":"og:description","content":"一个专注于分享最新技术见解、编程教程和开发者经验的现代科技博客"}],["$","meta","10",{"property":"og:url","content":"https://ivanmirzayev.github.io/"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:site","content":"https://ivanmirzayev.github.io"}],["$","meta","14",{"name":"twitter:title","content":"我的个人博客"}],["$","meta","15",{"name":"twitter:description","content":"一个专注于分享最新技术见解、编程教程和开发者经验的现代科技博客"}]]
+1:null
