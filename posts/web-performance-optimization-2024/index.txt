@@ -1,0 +1,59 @@
+3:I[5613,[],""]
+5:I[1778,[],""]
+6:I[2344,["792","static/chunks/792-366e352ab40b16b1.js","185","static/chunks/app/layout-17465ddf3b8e7ce0.js"],"ThemeProvider"]
+7:I[7177,["792","static/chunks/792-366e352ab40b16b1.js","185","static/chunks/app/layout-17465ddf3b8e7ce0.js"],""]
+8:I[2375,["792","static/chunks/792-366e352ab40b16b1.js","185","static/chunks/app/layout-17465ddf3b8e7ce0.js"],""]
+9:I[6112,["792","static/chunks/792-366e352ab40b16b1.js","185","static/chunks/app/layout-17465ddf3b8e7ce0.js"],""]
+a:I[8327,["792","static/chunks/792-366e352ab40b16b1.js","185","static/chunks/app/layout-17465ddf3b8e7ce0.js"],""]
+4:["id","web-performance-optimization-2024","d"]
+0:["THOyTTVlRCeK9tS9QEwy_",[[["",{"children":["posts",{"children":[["id","web-performance-optimization-2024","d"],{"children":["__PAGE__?{\"id\":\"web-performance-optimization-2024\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["id","web-performance-optimization-2024","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"zh-CN","className":"scroll-smooth","children":[["$","head",null,{"children":[["$","meta",null,{"http-equiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none';"}],["$","meta",null,{"name":"robots","content":"index,follow"}],["$","meta",null,{"name":"googlebot","content":"index,follow"}],["$","meta",null,{"name":"content-type","content":"text/html; charset=utf-8"}],["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"}],["$","meta",null,{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta",null,{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]]}],["$","body",null,{"className":"bg-light-background dark:bg-dark-background text-light-text dark:text-dark-text min-h-screen flex flex-col blog-body","children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","main",null,{"className":"flex-1 container mx-auto px-4 py-12 max-w-7xl","children":["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/53302f9e4b5e23e5.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+d:I[2689,["792","static/chunks/792-366e352ab40b16b1.js","703","static/chunks/703-eac40e41012a5d1a.js","722","static/chunks/app/posts/%5Bid%5D/page-5b2b509ec12db939.js"],""]
+e:I[4076,["792","static/chunks/792-366e352ab40b16b1.js","703","static/chunks/703-eac40e41012a5d1a.js","722","static/chunks/app/posts/%5Bid%5D/page-5b2b509ec12db939.js"],""]
+c:Tdb7,
+<h1>2024年Web性能优化完全指南</h1>
+<p>在当今快节奏的数字世界中，网站性能直接影响用户体验、转化率和搜索引擎排名。本指南将介绍2024年最新的Web性能优化技术和最佳实践。</p>
+<h2>为什么性能优化如此重要</h2>
+<p>性能优化不仅仅是让网站加载更快，它还能带来一系列业务价值：</p>
+<li><strong>提高用户满意度</strong>：快速加载的网站能提供更好的用户体验</li>
+<li><strong>降低跳出率</strong>：研究表明，页面加载时间每增加1秒，转化率可能下降7%</li>
+<li><strong>提升SEO排名</strong>：Google已将页面体验纳入搜索排名因素</li>
+<li><strong>减少服务器负载</strong>：优化后的资源消耗更少的服务器资源</li>
+<li><strong>改善移动端体验</strong>：在网络条件受限的移动设备上尤为重要</li>
+<h2>2024年核心性能优化技术</h2>
+<h3>1. 资源优化与压缩</h3>
+<li><strong>图像优化</strong>：使用现代图像格式(WebP、AVIF)，实现响应式图像和延迟加载</li>
+<li><strong>代码分割</strong>：按需加载JavaScript，避免不必要的代码下载</li>
+<li><strong>CSS优化</strong>：减少CSS体积，使用CSS Modules或CSS-in-JS技术</li>
+<li><strong>字体优化</strong>：使用字体子集，预加载关键字体</li>
+<h3>2. 网络优化</h3>
+<li><strong>HTTP/3与QUIC</strong>：利用最新的网络协议提升传输效率</li>
+<li><strong>CDN部署</strong>：使用内容分发网络将资源缓存到离用户更近的位置</li>
+<li><strong>资源预加载与预获取</strong>：战略性地预加载关键资源</li>
+<li><strong>Service Workers</strong>：实现离线功能和资源缓存</li>
+<h3>3. 渲染优化</h3>
+<li><strong>减少布局偏移</strong>：优化CLS(Cumulative Layout Shift)</li>
+<li><strong>提升首屏加载速度</strong>：优化LCP(Largest Contentful Paint)</li>
+<li><strong>减少JavaScript执行时间</strong>：优化TBT(Total Blocking Time)</li>
+<li><strong>使用骨架屏</strong>：在内容加载完成前显示占位符</li>
+<h2>性能监控与分析</h2>
+<p>性能优化是一个持续的过程，需要定期监控和分析：</p>
+<li><strong>Chrome DevTools</strong>：强大的前端性能分析工具</li>
+<li><strong>Lighthouse</strong>：自动化的Web性能评估工具</li>
+<li><strong>Web Vitals</strong>：Google推荐的核心Web性能指标</li>
+<li><strong>自定义性能监控</strong>：使用Performance API收集自定义指标</li>
+<h2>性能优化案例研究</h2>
+<h3>案例1：大型电商网站</h3>
+<p>通过实施以下优化措施，某大型电商网站实现了显著的性能提升：</p>
+<li>图像优化使页面加载速度提升45%</li>
+<li>代码分割减少了30%的初始JavaScript体积</li>
+<li>CDN部署使全球加载时间平均减少60%</li>
+<p>这些优化带来了12%的转化率提升和8%的跳出率下降。</p>
+<h2>未来性能趋势</h2>
+<p>展望未来，Web性能优化将继续发展：</p>
+<li><strong>边缘计算</strong>：在边缘节点处理更多逻辑，减少延迟</li>
+<li><strong>AI辅助优化</strong>：利用人工智能自动识别和修复性能瓶颈</li>
+<li><strong>WebAssembly</strong>：将高性能计算引入Web应用</li>
+<li><strong>碳足迹优化</strong>：优化性能同时减少能源消耗</li>
+<p>通过持续关注和实施这些技术，您的网站将在竞争激烈的Web环境中脱颖而出，为用户提供卓越的体验。</p>2:["$","div",null,{"className":"space-y-10","children":[["$","header",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","Web开发",{"className":"inline-block px-3 py-1 rounded-full text-xs font-medium bg-primary/10 text-primary dark:bg-primary/20","children":"Web开发"}],["$","span","性能优化",{"className":"inline-block px-3 py-1 rounded-full text-xs font-medium bg-primary/10 text-primary dark:bg-primary/20","children":"性能优化"}],["$","span","前端技术",{"className":"inline-block px-3 py-1 rounded-full text-xs font-medium bg-primary/10 text-primary dark:bg-primary/20","children":"前端技术"}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold tracking-tight","children":"2024年Web性能优化完全指南"}],["$","div",null,{"className":"flex items-center text-sm text-gray-500 dark:text-gray-400","children":[["$","time",null,{"dateTime":"2024-05-10","children":"2024年5月10日"}],["$","span",null,{"className":"mx-2","children":"•"}],["$","span",null,{"children":["1 min"," 分钟阅读"]}],[["$","span",null,{"className":"mx-2","children":"•"}],["$","span",null,{"children":"未知作者"}]]]}]]}],["$","article",null,{"className":"prose prose-lg max-w-none dark:prose-invert","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$c"}}]}],["$","section",null,{"className":"space-y-6","children":["$","$Ld",null,{}]}],["$","section",null,{"className":"space-y-6","children":[["$","h2",null,{"className":"text-2xl font-bold","children":"您可能还喜欢"}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-6","children":[["$","$Le","ai-chatbots-future-of-web-interactions",{"post":{"id":"ai-chatbots-future-of-web-interactions","title":"AI聊天机器人：Web交互的未来","excerpt":"探索AI聊天机器人如何改变现代Web应用的用户交互方式，以及开发者应该如何适应这一趋势。","date":"2024-05-15","categories":["人工智能","Web开发","用户体验"],"readingTime":"1 min"}}]]}]]}]]}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"科技小宇宙"}],["$","meta","3",{"name":"description","content":"分享前端开发、React、Next.js等最新技术见解、编程教程和开发者经验的个人博客"}],["$","meta","4",{"name":"author","content":"科技小宇宙"}],["$","meta","5",{"name":"keywords","content":"博客,技术,编程,前端开发,React,Next.js,JavaScript,CSS,教程"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://technologia007.qzz.io/"}],["$","meta","8",{"property":"og:title","content":"科技小宇宙"}],["$","meta","9",{"property":"og:description","content":"分享前端开发、React、Next.js等最新技术见解、编程教程和开发者经验的个人博客"}],["$","meta","10",{"property":"og:url","content":"https://technologia007.qzz.io/"}],["$","meta","11",{"property":"og:site_name","content":"科技小宇宙"}],["$","meta","12",{"property":"og:image","content":"https://technologia007.qzz.io/og-image.jpg"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"科技小宇宙博客封面"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:site","content":"@technologia007"}],["$","meta","19",{"name":"twitter:title","content":"科技小宇宙"}],["$","meta","20",{"name":"twitter:description","content":"分享前端开发、React、Next.js等最新技术见解、编程教程和开发者经验的个人博客"}],["$","meta","21",{"name":"twitter:image","content":"https://technologia007.qzz.io/og-image.jpg"}],["$","meta","22",{"name":"twitter:image:width","content":"1200"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","meta","24",{"name":"twitter:image:alt","content":"科技小宇宙博客封面"}]]
+1:null
